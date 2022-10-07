@@ -1,7 +1,7 @@
 # demo 2
 
-some idk text. wana play with magic
+github practice demo repository
 
 # sub header
 
-ultimate speederman
+some text

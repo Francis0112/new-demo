@@ -1,7 +1,4 @@
-# demo 2
+# github practice
+-website
 
-github practice demo repository
-
-# sub header
-
-some text
+# hello world

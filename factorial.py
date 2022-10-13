@@ -1,10 +1,15 @@
 
 
-def factor(n):
-    if n == 1:
-        return n
-    return n * factor(n-1)
+
+class Factor:
 
 
-sam = factor(5)
-print(sam)
+    def factorial(num):
+        if num==1:
+            return 1
+        else:
+            return num * Factor.factorial(num-1)
+
+
+a = Factor
+print(a.factorial(7))
